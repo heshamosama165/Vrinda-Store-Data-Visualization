@@ -12,7 +12,7 @@ Identify the products or categories driving the most revenue for Vrinda Store. T
 Gain insights into the demographics of Vrinda Store's customer base. Analyze which gender contributes most to sales and tailor marketing strategies accordingly.
 
 ### Top Channel:
-Explore which sales channels (online store, physical store, etc.) are most successful in generating sales. This knowledge can help optimize resource allocation and marketing efforts across different channels.
+Explore which sales channels are most successful in generating sales. This knowledge can help optimize resource allocation and marketing efforts across different channels.
 
 ### Order Status:
 Track the efficiency of Vrinda Store's fulfillment process. Visualize the percentage of delivered orders compared to outstanding orders to identify areas for improvement.
