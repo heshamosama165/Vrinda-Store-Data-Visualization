@@ -4,6 +4,7 @@ Explore Vrinda Store's top sellers, customer profiles, sales channels, and deliv
 ## Vrinda Store Data Visualization: A Deep Dive
 This visualization dashboard offers a comprehensive view of Vrinda Store's performance across key areas. Here's what you can expect to uncover:
 
+
 ### Top Sales:
 Identify the products or categories driving the most revenue for Vrinda Store. This will help understand customer preferences and optimize product offerings.
 
@@ -18,6 +19,8 @@ Track the efficiency of Vrinda Store's fulfillment process. Visualize the percen
 
 By combining these visualizations, this interactive dashboard provides Vrinda Store with valuable insights to make data-driven decisions and improve overall sales performance. It was customized using Slicers for interactive & robust visualization.
 ![image](https://github.com/heshamosama165/Vrinda-Store-Data-Visualization/assets/106331921/618c4b58-24ce-4ed5-9c96-e02e3a0ea3d3)
+
+https://github.com/heshamosama165/Vrinda-Store-Data-Visualization/assets/106331921/8e003a5b-9ede-4977-88cb-085305935bdf
 
 
 
