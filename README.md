@@ -17,5 +17,7 @@ Explore which sales channels (online store, physical store, etc.) are most succe
 Track the efficiency of Vrinda Store's fulfillment process. Visualize the percentage of delivered orders compared to outstanding orders to identify areas for improvement.
 
 By combining these visualizations, this interactive dashboard provides Vrinda Store with valuable insights to make data-driven decisions and improve overall sales performance. It was customized using Slicers for interactive & robust visualization.
+![image](https://github.com/heshamosama165/Vrinda-Store-Data-Visualization/assets/106331921/618c4b58-24ce-4ed5-9c96-e02e3a0ea3d3)
+
 
 
